@@ -1,10 +1,12 @@
-# 1. Complete the requirements form
+# Week 5
+# This Week's Summary
+## 1. Complete the requirements form
 
-# 2. Work summary for last week
+## 2. Work summary for last week
 
-  ## Code review
+  ### Code review
 It can be done using LLama3, but the workload and feasibility are uncertain. There are few open projects on GitHub for Llama's code review.
-  ## Code auto-modification
+  ### Code auto-modification
 Code standardization and code review, C++ open-source tools, the feasibility of large language models is low. 
 
   - https://github.com/akof1314/CoolFormat  - Last updated six years ago.      
@@ -12,19 +14,19 @@ Code standardization and code review, C++ open-source tools, the feasibility of 
     
  -  https://github.com/prettier/prettier - Does not change variable names, only modifies formatting, and is only for JavaScript.
   
-## Code explanation Website-style code explanation and comments
+### Code explanation Website-style code explanation and comments
     
-## Code completion 
+### Code completion 
 - https://github.com/val-town/codemirror-codeium  - Based on Codeium for code completion, supporting multiple languages. 
 - https://github.com/microsoft/PyCodeGPT - Can it complete Python? However, the cost of training the model is very high.
 
-## Code rewriting
+### Code rewriting
 - **Babel**: A command-line tool that can translate code from one programming language to another. It supports multiple languages including Python, Java, C#, and JavaScript.
 - **Transcoder**: A Python library that can translate code between different programming languages.
 - **Rewriter**: A Python library that can rewrite code from one programming language to another.
 - **Code Transformator**: An open-source library for converting code. It supports various languages including Java, Python, C++, and C#.
 
-### Links for available Code Rewrite
+#### Links for available Code Rewrite
 - https://github.com/mckaywrigley/ai-code-translator.git
 
 
@@ -40,6 +42,6 @@ The application is built using ReactJS for the front end and Java Spring Boot fo
 - https://code-converter-fw24-335.netlify.app/
 
 
-# Next week's tasks:
+# Next Week's Tasks
 - Create prototype diagrams and detail the requirements. 
 - Start determining division development tasks in next week's meeting.
