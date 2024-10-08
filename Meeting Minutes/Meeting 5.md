@@ -7,17 +7,17 @@
   ### Code review
 It can be done using LLama3, but the workload and feasibility are uncertain. There are few open projects on GitHub for Llama's code review.
   ### Code auto-modification
-Code standardization and code review, C++ open-source tools, the feasibility of large language models is low. 
+Code standardization and code review, C++ open-source tools, the feasibility of large language models is low.
 
-  - https://github.com/akof1314/CoolFormat  - Last updated six years ago.      
+  - https://github.com/akof1314/CoolFormat  - Last updated six years ago.     
     Corresponding CSDN article: https://blog.csdn.net/akof1314/article/details/5355948 
     
  -  https://github.com/prettier/prettier - Does not change variable names, only modifies formatting, and is only for JavaScript.
   
-### Code explanation Website-style code explanation and comments
+### Code explanationWebsite-style code explanation and comments
     
-### Code completion 
-- https://github.com/val-town/codemirror-codeium  - Based on Codeium for code completion, supporting multiple languages. 
+### Code completion
+- https://github.com/val-town/codemirror-codeium  - Based on Codeium for code completion, supporting multiple languages.
 - https://github.com/microsoft/PyCodeGPT - Can it complete Python? However, the cost of training the model is very high.
 
 ### Code rewriting
